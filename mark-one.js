@@ -1,4 +1,4 @@
 console.log('JavaScript');
 
-var test = "Test"
+var test = "Live Server is updating!"
 console.log(test);
